@@ -1,0 +1,18 @@
+th{
+	text-align: center;
+}
+td{
+	text-align: center;
+}
+#permission{
+	width: 10%;
+}
+#serial{
+	width: 10%;
+}
+#plus{
+	color: green;
+}
+.btn-lg{
+	color: green;
+}
